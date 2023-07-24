@@ -25,8 +25,8 @@ path = "../graphics"
 features = ["tiny-skia"]
 
 [dependencies.cosmic-text]
-git = "https://github.com/hecrj/cosmic-text.git"
-rev = "b85d6a4f2376f8a8a7dadc0f8bcb89d4db10a1c9"
+git = "https://github.com/pupbrained/cosmic-text.git"
+rev = "5becac7cb3c80f8003e97f5388b55c092e60d6f8"
 
 [dependencies.twox-hash]
 version = "1.6"
